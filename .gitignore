@@ -1,0 +1,10 @@
+__MACOSX/
+._*
+.DS_Store
+.venv/
+__pycache__/
+.DS_Store
+.vscode/
+__pycache__/
+.chroma_db/
+.chroma_test/
