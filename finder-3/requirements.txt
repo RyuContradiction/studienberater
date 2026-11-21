@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+chromadb
+pypdf
+numpy
+langchain-ollama   # optional: schönere Fragetexte über Ollama (llama3)
+pytest             # nur für die Tests

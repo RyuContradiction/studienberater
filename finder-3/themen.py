@@ -1,0 +1,47 @@
+THEMEN = {
+    "Mathematik": "Analysis, Statistik, Stochastik, Algebra und mathematische Modelle",
+    "Cybersecurity": "Datenschutz, sichere Systeme und Schutz vor digitalen Angriffen",
+    "Programmierung": "Software entwickeln, programmieren, Algorithmen und Apps bauen",
+    "Daten und KI": "Daten auswerten, künstliche Intelligenz und maschinelles Lernen",
+    "Netzwerke und Internet": "Computernetzwerke, Kommunikation, Web und Internet-Technik",
+    "Gestaltung und Design": "Grafik, Gestaltung, User Experience und visuelle Ideen",
+    "Bild, Film und Licht": "Kamera, Film, Fotografie, Videotechnik und Licht",
+    "Musik und Audio": "Musik, Tonaufnahme, Akustik, Klang und Sounddesign",
+    "Elektrotechnik und Hardware": "Elektronik, Geräte und technische Systeme",
+    "Wirtschaft und Management": "Unternehmen, Marketing und Projektmanagement",
+    "Gesellschaft und Medien": "Menschen, Medien, Kommunikation und gesellschaftliche Fragen",
+    "3D und Virtual Reality": "3D-Modelle, Animation, Games und virtuelle Realität",
+}
+FRAGE_TEXTE = {
+    "Mathematik": "Mathematik und logische Probleme zu lösen",
+    "Cybersecurity": "digitale Geräte und Daten vor Angriffen zu schützen",
+    "Programmierung": "eigene Programme oder Apps zu entwickeln",
+    "Daten und KI": "Daten auszuwerten und mit künstlicher Intelligenz zu arbeiten",
+    "Netzwerke und Internet": "zu verstehen, wie Geräte und Webseiten verbunden sind",
+    "Gestaltung und Design": "Oberflächen oder visuelle Ideen zu gestalten",
+    "Bild, Film und Licht": "mit Kamera, Film und Licht Geschichten zu erzählen",
+    "Musik und Audio": "mit Klang und Tonaufnahmen kreativ zu arbeiten",
+    "Elektrotechnik und Hardware": "elektronische Geräte zu bauen oder zu verstehen",
+    "Wirtschaft und Management": "Ideen für Produkte oder Unternehmen zu entwickeln",
+    "Gesellschaft und Medien": "zu verstehen, wie Medien Menschen beeinflussen",
+    "3D und Virtual Reality": "3D-Welten oder virtuelle Erlebnisse zu gestalten",
+}
+DETAILS = {
+    "Mathematik": ("mit Daten und Zufall zu arbeiten", "mit Formeln technische Probleme zu lösen", "zu untersuchen, wie sich Dinge verändern"),
+    "Cybersecurity": ("digitale Systeme vor Angriffen zu schützen", "Schwachstellen in Technik aufzuspüren", "Daten und Privatsphäre zu sichern"),
+    "Programmierung": ("eigene Apps oder Software zu entwickeln", "Abläufe Schritt für Schritt zu automatisieren"),
+    "Daten und KI": ("Muster in großen Datenmengen zu entdecken", "Maschinen aus Beispielen lernen zu lassen"),
+    "Netzwerke und Internet": ("zu verstehen, wie Geräte miteinander kommunizieren", "Webseiten und Online-Dienste zu entwickeln"),
+    "Gestaltung und Design": ("Oberflächen und digitale Produkte zu gestalten", "Räume oder visuelle Ideen zu entwerfen"),
+    "Bild, Film und Licht": ("mit Kamera, Film oder Licht Geschichten zu erzählen", "Bilder und Videos technisch zu bearbeiten"),
+    "Musik und Audio": ("Klänge aufzunehmen und kreativ zu bearbeiten", "zu erforschen, wie Menschen Geräusche wahrnehmen"),
+    "Elektrotechnik und Hardware": ("elektronische Geräte und Schaltungen zu verstehen", "mit Sensoren oder Mikrocontrollern zu arbeiten"),
+    "Wirtschaft und Management": ("Projekte zu organisieren und Entscheidungen zu treffen", "Ideen für Produkte oder Unternehmen zu entwickeln"),
+    "Gesellschaft und Medien": ("zu untersuchen, wie Medien Menschen beeinflussen", "Technik und ihre Folgen für die Gesellschaft zu bewerten"),
+    "3D und Virtual Reality": ("3D-Welten oder Animationen zu gestalten", "virtuelle Erlebnisse oder Games zu entwickeln"),
+}
+OFFENE_FRAGEN = {
+    "erfahrung": "Was hast du bisher gern gemacht, wobei du die Zeit vergessen hast?",
+    "abneigung": "Welche Aufgaben oder Tätigkeiten möchtest du im Studium möglichst vermeiden?",
+    "beruf": "Wie stellst du dir einen passenden Arbeitstag nach dem Studium vor?",
+}
